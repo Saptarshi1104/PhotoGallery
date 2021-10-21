@@ -26,6 +26,26 @@ body{
     text-align: center;
 }
 img{
-    height: 200px;
-    width: 200px;
+    height: 350px;
+    width: 350px;
+}
+.left{
+float: left;
+}
+.right{
+float: right;
+}
+#myNavBar{
+text-decoration: none;
+color: white;
+font-size: 30px;
+}
+#grids{
+background-color: aqua;
+}
+#slider{
+background-color: aquamarine;
+}
+#home{
+background-color: cadetblue;
 }
