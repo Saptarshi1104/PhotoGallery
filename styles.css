@@ -24,6 +24,7 @@ p{
 }
 body{
     text-align: center;
+    background-image: linear-gradient(red, green, blue);
 }
 img{
     height: 350px;
@@ -39,13 +40,4 @@ float: right;
 text-decoration: none;
 color: white;
 font-size: 30px;
-}
-#grids{
-background-color: aqua;
-}
-#slider{
-background-color: aquamarine;
-}
-#home{
-background-color: cadetblue;
 }
